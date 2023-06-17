@@ -1,4 +1,4 @@
-Code for Animal Classification
+Code for Animal Classification 
 
 This code performs animal classification using a dataset of raw images. It follows the steps below:
 
